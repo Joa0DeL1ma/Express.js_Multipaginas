@@ -1,4 +1,4 @@
-Alguns exercícios que realizei utilizando Node.js, Express.js e Nodemon para multipáginas.
+Exercícios que realizei utilizando Node.js, Express.js e Nodemon para multipáginas.
 
 Resultados:
 
